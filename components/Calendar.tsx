@@ -176,7 +176,7 @@ export default function Calendar({
           date={selectedDate}
           onClose={() => setModalOpen(false)}
           onConfirm={handleConfirm}
-          initialData={editingAppt}
+          initialData={editingAppt || undefined}
         />
       )}
     </>
