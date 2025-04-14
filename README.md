@@ -65,7 +65,7 @@ Visit: `http://localhost:3000`
 
 🔗 Doctor Appointmnet app will be live at vercel:
 ```
-https://your-project-name.vercel.app
+https://doctor-appointment-app-lyart.vercel.app/
 ```
 
 ## 🙌 Author
