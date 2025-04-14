@@ -56,6 +56,7 @@ npm install dayjs react-hot-toast lucide-react
 ```
 
 ### ▶️ Start the development server
+```bash
 npm run dev
 ```
 Visit: `http://localhost:3000`
