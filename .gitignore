@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# production build
+out/
+
+# Tailwind build artifacts
+dist/
+
+# logs
+*.log
+
+# dotenv environment files
+.env.local
+.env.*.local
+
+# system files
+.DS_Store
