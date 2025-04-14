@@ -65,7 +65,7 @@ export default function BookingModal({
       (a) =>
         a.id !== appointment?.id &&
         a.date === date &&
-        a.patientEmail.trim().toLowerCase() === patientEmail.trim().toLowerCase()
+        a.patientEmail?.trim().toLowerCase() === patientEmail.trim().toLowerCase()
     );
 
     if (isDuplicate) {
