@@ -63,7 +63,7 @@ Visit: `http://localhost:3000`
 
 ## 🌍 Deployment
 
-🔗 Doctor Appointmnet app will be live at vercel:
+🔗 Doctor Appointmnet app is currently live at vercel App:
 ```
 https://doctor-appointment-app-lyart.vercel.app/
 ```
